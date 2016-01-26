@@ -7,15 +7,15 @@
         mc:Ignorable="d" Keyboard.KeyUp="Window_KeyUp"
         Title="MainWindow" Height="600" Width="800">
     <Grid>
-        <TabControl x:Name="tabsUI">
+        <TabControl x:Name="tabsUI" >
             <TabItem Header="表">
                 <Grid >
                     <DataGrid x:Name="biaos_dataGrid" IsReadOnly="True" ItemsSource="{Binding}" MouseDoubleClick="biaos_dataGrid_MouseDoubleClick"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="详细">
+            <TabItem Header="详细" Name="xiangxiTab">
                 <Grid >
-                    <DataGrid x:Name="dataGrid1"/>
+                    <DataGrid x:Name="xiangxiUI" ItemsSource="{Binding}"/>
                 </Grid>
             </TabItem>
         </TabControl>

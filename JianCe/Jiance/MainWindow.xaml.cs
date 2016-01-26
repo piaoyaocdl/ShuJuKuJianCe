@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Reflection;
 
 namespace Jiance
 {
@@ -68,17 +69,21 @@ namespace Jiance
 
         private void biaos_dataGrid_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
+            
             var dg = sender as DataGrid;
             var xuandehang = dg.SelectedItem as Biaos;
             if (dg!=null && dg.SelectedIndex!=-1 && xuandehang.bianhua>0)
             {
-                Console.WriteLine("111111111");
-                tabsUI.SelectedIndex = 1;
-                
                 using (ShujukuDataContext shujuku = new ShujukuDataContext())
                 {
+                    Type t = Assembly.Load("Jiance").GetType("Jiance."+xuandehang.biaoming);
+                    var ls = shujuku.ExecuteQuery(t, @"select top "+xuandehang.bianhua+" * from " + xuandehang.biaoming);
+                    xiangxiUI.ItemsSource = null;
+                    xiangxiUI.ItemsSource = ls;
                 }
+               
             }
         }
+
     }
 }
