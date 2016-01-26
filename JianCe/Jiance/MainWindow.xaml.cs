@@ -24,6 +24,10 @@ namespace Jiance
         public MainWindow()
         {
             InitializeComponent();
+#if DEBUG
+            MessageBox.Show("11111");
+            
+#endif
         }
 
         public List<Biaos> shujuyuan_biaos
