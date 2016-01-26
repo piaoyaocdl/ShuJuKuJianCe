@@ -81,7 +81,8 @@ namespace Jiance
                 using (ShujukuDataContext shujuku = new ShujukuDataContext())
                 {
                     Type t = Assembly.Load("Jiance").GetType("Jiance."+xuandehang.biaoming);
-                    var ls = shujuku.ExecuteQuery(t, @"select top "+xuandehang.bianhua+" * from " + xuandehang.biaoming);
+                    Console.WriteLine(@"select top " + xuandehang.bianhua + " * from " + xuandehang.biaoming + "order by id desc");
+                    var ls = shujuku.ExecuteQuery(t, @"select top "+xuandehang.bianhua+" * from " + xuandehang.biaoming+" order by id desc");
                     xiangxiUI.ItemsSource = null;
                     xiangxiUI.ItemsSource = ls;
                 }
