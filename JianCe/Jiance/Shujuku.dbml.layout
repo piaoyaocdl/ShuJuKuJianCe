@@ -1,0 +1,937 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 45, 77.625" name="Shujuku">
+  <DataContextMoniker Name="/ShujukuDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dd8f7dbe-482a-4611-9f1e-e8bb77627af0" absoluteBounds="0.75, 0.75, 2, 2.5266442871093755">
+      <DataClassMoniker Name="/ShujukuDataContext/air_sterilize" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c6dab8dd-3779-4063-9ac2-6586e6de1aed" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.966644287109375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c3d52c4c-ae4c-4d94-b693-f487d0079442" absoluteBounds="21.75, 13.75, 2, 4.2458215332031255">
+      <DataClassMoniker Name="/ShujukuDataContext/yangbenjushou" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4d597e36-447b-4e44-a5ec-753c0ee669de" absoluteBounds="21.765, 14.21, 1.9700000000000002, 3.685821533203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="604c4d38-135e-47c8-a072-41cfd360f015" absoluteBounds="3.5, 16.375, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/bill_reagent" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3fc43e42-3748-4a3b-bffe-ca70f5091968" absoluteBounds="3.515, 16.835, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bde541b3-1c72-48f1-8c9a-79b563f00fce" absoluteBounds="3.5, 4.5, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/ShujukuDataContext/bill_report" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ac3b91c-459d-4fa5-9d7b-f63005a9c64f" absoluteBounds="3.515, 4.96, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b73728dd-c0a2-4300-a9c9-7f92308050ac" absoluteBounds="12.75, 22.75, 2, 5.0099003092447916">
+      <DataClassMoniker Name="/ShujukuDataContext/board_grid" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4c61cda3-b726-4873-ae00-4309efa93ce6" absoluteBounds="12.765, 23.21, 1.9700000000000002, 4.4499003092447911" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="66e10843-d88b-4a35-9430-5243f8a01298" absoluteBounds="6.75, 14.75, 2, 1.9535852050781237">
+      <DataClassMoniker Name="/ShujukuDataContext/c_anti_serum" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7e9cddd6-550f-46d5-a180-301054fbaa14" absoluteBounds="6.765, 15.21, 1.9700000000000002, 1.393585205078125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e891166d-58bf-4635-9918-e41b76681fea" absoluteBounds="6.75, 23.75, 2, 1.9535852050781273">
+      <DataClassMoniker Name="/ShujukuDataContext/c_area" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c7d2de72-03b8-4d11-89cc-7491ca7c771e" absoluteBounds="6.765, 24.21, 1.9700000000000002, 1.393585205078125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cdf26c64-fc57-46f0-af3d-a294e5d07a96" absoluteBounds="23.75, 18.75, 2, 3.0997033691406273">
+      <DataClassMoniker Name="/ShujukuDataContext/c_base_code" />
+      <nestedChildShapes>
+        <elementListCompartment Id="50a13bd4-477b-450e-b87a-60d557012594" absoluteBounds="23.765, 19.21, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f20e7941-f146-48dd-8471-72d1a4fa5e1f" absoluteBounds="15.75, 18, 2, 3.2907230631510416">
+      <DataClassMoniker Name="/ShujukuDataContext/c_client" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3ddbb859-93a1-4dc2-88a7-679a7e0285d8" absoluteBounds="15.765, 18.46, 1.9700000000000002, 2.7307230631510415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="efa7eebb-1cc2-4e72-ad0f-04fb3863b80a" absoluteBounds="23.75, 22.75, 2, 1.7625655110677059">
+      <DataClassMoniker Name="/ShujukuDataContext/c_dept" />
+      <nestedChildShapes>
+        <elementListCompartment Id="224e81f9-5522-404d-bd48-6f45f9ed5638" absoluteBounds="23.765, 23.21, 1.9700000000000002, 1.2025655110677083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2d3103dc-f743-4a85-bc40-0d75694a64de" absoluteBounds="24.75, 4.75, 2, 2.5266442871093755">
+      <DataClassMoniker Name="/ShujukuDataContext/c_dr_ref" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f2cb1a8c-4565-442f-86c7-cdcf4335f938" absoluteBounds="24.765, 5.21, 1.9700000000000002, 1.966644287109375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="25b9424d-64d7-4aca-8d22-621f97118810" absoluteBounds="18.5, 15.25, 2, 3.6727624511718755">
+      <DataClassMoniker Name="/ShujukuDataContext/c_equipment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="87e6a867-b510-4a5e-9012-0fdc9fe69de0" absoluteBounds="18.515, 15.71, 1.9700000000000002, 3.112762451171875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e92184ff-75fa-43a8-aaee-dfa278cb77f2" absoluteBounds="24.75, 13.75, 2, 3.4817427571614559">
+      <DataClassMoniker Name="/ShujukuDataContext/c_hospital" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7ec03126-41e0-4e30-b5c0-97720122c19b" absoluteBounds="24.765, 14.21, 1.9700000000000002, 2.921742757161458" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="66e5626f-85bc-4dbf-8f43-cb45e82ba87c" absoluteBounds="15.75, 24.75, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/c_imgt_detail_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="06e8653f-d317-4880-b48e-3d9b49f749bd" absoluteBounds="15.765, 25.21, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2434c2fc-1f13-4962-98b4-9f0d4394e255" absoluteBounds="18.75, 24.75, 2, 2.3356245930989559">
+      <DataClassMoniker Name="/ShujukuDataContext/c_imgt_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cdadc2ee-3c3e-4da7-a311-0c085d260876" absoluteBounds="18.765, 25.21, 1.9700000000000002, 1.7756245930989585" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="85133f7c-96dc-4e16-8be1-5dcea6e0b291" absoluteBounds="21.75, 25.75, 2, 3.2907230631510416">
+      <DataClassMoniker Name="/ShujukuDataContext/c_invoice_record_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2fd90298-9afd-423a-93d6-be1eb331cfaa" absoluteBounds="21.765, 26.21, 1.9700000000000002, 2.7307230631510415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="54c38c3a-5181-4b0d-9ddd-44bc3510e558" absoluteBounds="18.5, 19.625, 2, 4.2458215332031273">
+      <DataClassMoniker Name="/ShujukuDataContext/c_reagent" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c4ec777-c09d-4121-b4a4-8fa4476c4585" absoluteBounds="18.515, 20.085, 1.9700000000000002, 3.685821533203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ad226fa5-eb99-4c78-b227-377cd6316ed6" absoluteBounds="24.75, 25.75, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/c_replace_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="959fb4c1-3d12-40d5-983a-20c50c9114b6" absoluteBounds="24.765, 26.21, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cf9211b4-47f2-4fa0-8223-26dbe3adb1e5" absoluteBounds="6.75, 26.75, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/c_rule_allele_detail_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa05f8ba-766f-40f9-b548-38982463b6e5" absoluteBounds="6.765, 27.21, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="458d0329-4b68-47ab-98cb-88dd4391b60f" absoluteBounds="26.75, 8.75, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/ShujukuDataContext/c_rule_allele_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="12f3fba9-6618-4953-b04d-d96eed7d1ebc" absoluteBounds="26.765, 9.21, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="222b05ac-eb6d-4638-b073-30a70ee8629c" absoluteBounds="26.75, 18.75, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/c_rule_ambiguity_detail_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7a1c0ca5-55b2-47dd-b68a-ca99254ca973" absoluteBounds="26.765, 19.21, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7d48132f-8507-48c6-af08-882a2db7872b" absoluteBounds="26.75, 22.75, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/ShujukuDataContext/c_rule_ambiguity_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3c45a307-6a78-4a99-b196-5c377e9bf687" absoluteBounds="26.765, 23.21, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f5c39ece-fd3c-4532-807a-5b4b608e2c7e" absoluteBounds="27.75, 0.75, 2, 3.2907230631510416">
+      <DataClassMoniker Name="/ShujukuDataContext/c_rule_cwd_detail_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0edb12ca-33d8-48ba-818b-884a6c2ea771" absoluteBounds="27.765, 1.21, 1.9700000000000002, 2.7307230631510415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="faf92c0b-4de7-486f-912f-c7895e8a2a71" absoluteBounds="27.75, 5.75, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/ShujukuDataContext/c_rule_cwd_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f3f4403c-e51d-4592-9a3a-1e392a61db6d" absoluteBounds="27.765, 6.21, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="059d3f35-51f3-4597-a858-fbe6fd7fcc2c" absoluteBounds="27.75, 11.75, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/c_rule_resource_detail_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f8e4d1f-46d8-4f78-bda5-3c26e0b56321" absoluteBounds="27.765, 12.21, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ecedb107-0d2d-4484-a2d7-84a9643fb3ea" absoluteBounds="27.75, 15.75, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/ShujukuDataContext/c_rule_resource_t" />
+      <nestedChildShapes>
+        <elementListCompartment Id="876bccca-fedf-4e12-bd34-c206b6f16213" absoluteBounds="27.765, 16.21, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a52b255b-e089-4081-9a57-ddc581fe1615" absoluteBounds="27.75, 25.75, 2, 5.2009200032552059">
+      <DataClassMoniker Name="/ShujukuDataContext/center_bill" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2de72c27-3d1d-487b-b0b1-c1a0504593db" absoluteBounds="27.765, 26.21, 1.9700000000000002, 4.640920003255208" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" absoluteBounds="0.75, 33.75, 2, 14.369865315755206">
+      <DataClassMoniker Name="/ShujukuDataContext/check_bill" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8c86996d-bdef-4eb3-8bdd-726d89b36552" absoluteBounds="0.765, 34.21, 1.9700000000000002, 13.809865315755207" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bd3b3a8d-e7f7-42c8-aec2-467a244269b6" absoluteBounds="3.5, 19.875, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/check_bill_fee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d8e2af55-313d-4f80-bb15-670c8f7db9da" absoluteBounds="3.515, 20.335, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="455f127e-03df-4c24-87aa-8d2b78d5fb8d" absoluteBounds="9.5, 1, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/check_bill_fee_month" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7ba0ad96-2637-4c94-b9c0-4e82514827e0" absoluteBounds="9.515, 1.46, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="388a2304-951c-401a-9d75-2787b1fbc6c8" absoluteBounds="6.75, 1, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/check_bill_month" />
+      <nestedChildShapes>
+        <elementListCompartment Id="61053724-e8d2-4b08-a25a-1cc09cb13943" absoluteBounds="6.765, 1.46, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="73517b78-286e-4a01-a488-a1116e3a2af3" absoluteBounds="9.75, 28.75, 2, 10.167432047526038">
+      <DataClassMoniker Name="/ShujukuDataContext/check_bill_rec" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9f7ee01a-d2e9-41b5-ac1a-2235c24d1e83" absoluteBounds="9.765, 29.21, 1.9700000000000002, 9.6074320475260411" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4c35c254-ebf1-4942-b31d-a6bf7dd660f6" absoluteBounds="3.5, 7.375, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/ShujukuDataContext/check_bill_rec_pic" />
+      <nestedChildShapes>
+        <elementListCompartment Id="737dfd7b-1952-44ac-aee6-da3461f18df0" absoluteBounds="3.515, 7.835, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ecfa4453-6df8-41f2-83ab-f554b337032c" absoluteBounds="3.5, 67.625, 2, 9.78539265950522">
+      <DataClassMoniker Name="/ShujukuDataContext/check_bill_sample" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b1aa376f-6525-492a-9f51-3927d7d50ac3" absoluteBounds="3.515, 68.085, 1.9700000000000002, 9.2253926595052071" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="71c61370-52cc-4663-9ff4-4519353ba481" absoluteBounds="12.75, 28.75, 2, 4.2458215332031273">
+      <DataClassMoniker Name="/ShujukuDataContext/check_sample" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d212622b-6ac7-425d-92f2-2a934032f90c" absoluteBounds="12.765, 29.21, 1.9700000000000002, 3.685821533203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5ef2e3eb-6c03-4757-9f75-6dd1b4a723d2" absoluteBounds="15.75, 28.75, 2, 3.2907230631510416">
+      <DataClassMoniker Name="/ShujukuDataContext/counseling" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7e0ee28-da20-4888-9056-a233a7b30de3" absoluteBounds="15.765, 29.21, 1.9700000000000002, 2.7307230631510415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d7efc728-1d47-4cad-b9d7-98a58b1a5e9c" absoluteBounds="29.75, 18.75, 2, 2.3356245930989559">
+      <DataClassMoniker Name="/ShujukuDataContext/dept_report" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ba4c6f97-1f31-467c-a903-4a46f295ddda" absoluteBounds="29.765, 19.21, 1.9700000000000002, 1.7756245930989585" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5b96fc39-31fe-4d6f-8f41-c5b5e8a4b46e" absoluteBounds="30.75, 0.75, 2, 2.5266442871093755">
+      <DataClassMoniker Name="/ShujukuDataContext/equipment_adjust" />
+      <nestedChildShapes>
+        <elementListCompartment Id="89b430a7-722a-4bc0-abb4-5bde97ddf96c" absoluteBounds="30.765, 1.21, 1.9700000000000002, 1.966644287109375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="05c3cbab-fe79-4913-bd5c-e067e0ebd300" absoluteBounds="30.75, 4.75, 2, 3.0997033691406255">
+      <DataClassMoniker Name="/ShujukuDataContext/equipment_maintain" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2c903de0-df02-4cb6-8af0-a2caee31c4e4" absoluteBounds="30.765, 5.21, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0390a760-1d96-49fe-a752-e711fabf3a52" absoluteBounds="30.75, 8.75, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/equipment_repair" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2b8c24e5-151d-449b-b289-8043a7f9e5ca" absoluteBounds="30.765, 9.21, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="645f9843-4b45-497e-8567-7684e7b85e43" absoluteBounds="30.75, 12.75, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/fee_item" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d69072fb-48d2-47df-b77d-5ed7a84abecb" absoluteBounds="30.765, 13.21, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="815e22c4-b2d8-4187-9a40-0b3ccaa020c1" absoluteBounds="18.75, 30.75, 2, 3.290723063151038">
+      <DataClassMoniker Name="/ShujukuDataContext/fee_record" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5343f0b1-1bac-4a3e-958f-abb11dc77b97" absoluteBounds="18.765, 31.21, 1.9700000000000002, 2.7307230631510415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="56705acc-9997-40cf-a2c9-91af256259ed" absoluteBounds="21.75, 1.125, 2, 1.7625655110677079">
+      <DataClassMoniker Name="/ShujukuDataContext/file_category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ab149205-0fee-4e03-9baf-c24d3ee92783" absoluteBounds="21.765, 1.585, 1.9700000000000002, 1.2025655110677083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a3a7b06b-2dbb-43fa-878a-c0a34f83302e" absoluteBounds="24.5, 0.875, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/ShujukuDataContext/files" />
+      <nestedChildShapes>
+        <elementListCompartment Id="226a6b6d-93d1-403f-b89a-40de26a2c8ff" absoluteBounds="24.515, 1.335, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d043bd4e-36ec-4452-876a-d04ee311e535" absoluteBounds="21.75, 30.75, 2, 2.9086836751302059">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_concentration" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3913a00e-b9df-4d6e-b103-6f9878b99f2d" absoluteBounds="21.765, 31.21, 1.9700000000000002, 2.348683675130208" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fd70014e-2aa3-4deb-8f78-f4d5187bc006" absoluteBounds="30.75, 22.75, 2, 3.4817427571614559">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_cool" />
+      <nestedChildShapes>
+        <elementListCompartment Id="87056387-ea29-4195-b396-1ed22f1c3d35" absoluteBounds="30.765, 23.21, 1.9700000000000002, 2.921742757161458" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4bae6dcf-807d-4e2d-ab2c-39589230d649" absoluteBounds="30.75, 27.75, 2, 3.0997033691406273">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_dna" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5284e390-6653-4baf-8651-cc9315337d4e" absoluteBounds="30.765, 28.21, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="eba99a35-bf8c-4291-8acb-cab6c26444e5" absoluteBounds="24.75, 31.75, 2, 1.7625655110677059">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_jsp_yetou_yejiao" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f90f6253-78fd-4b20-98d4-e1ca57068e83" absoluteBounds="24.765, 32.21, 1.9700000000000002, 1.2025655110677083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c3281ec4-e097-40f5-908d-ed5a882fadd4" absoluteBounds="27.75, 31.75, 2, 3.0997033691406273">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_lumi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a814cc0d-6668-4e36-90a3-3149c4cbf6f9" absoluteBounds="27.765, 32.21, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7e3e18c9-49f7-48fc-bf29-fd4bc103c7b3" absoluteBounds="30.75, 31.75, 2, 5.9649987792968773">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_pcr" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ee286569-3d9e-4e43-9e52-a2e7e4ee37f0" absoluteBounds="30.765, 32.21, 1.9700000000000002, 5.404998779296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="023e48aa-3f33-4f1c-9f60-34803c08307c" absoluteBounds="32.75, 16.75, 2, 2.9086836751302059">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_report_head" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1fdf345f-582e-4e49-b9d9-40128213c664" absoluteBounds="32.765, 17.21, 1.9700000000000002, 2.348683675130208" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="96774547-10e8-4ba3-adaa-227e7eaba168" absoluteBounds="33.75, 0.75, 2, 2.5266442871093755">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_report_rec" />
+      <nestedChildShapes>
+        <elementListCompartment Id="89f340bb-b2fd-464f-b8af-7f4f476bfa2a" absoluteBounds="33.765, 1.21, 1.9700000000000002, 1.966644287109375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a1198972-165a-413b-a3db-a5f853bdd0f2" absoluteBounds="33.75, 4.75, 2, 6.9200972493489568">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_report_result" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ea43da9-4bdc-4c0b-ab6e-ff74b3ba2f5a" absoluteBounds="33.765, 5.21, 1.9700000000000002, 6.360097249348958" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b01dca52-bc2e-4093-802f-bd13786cf277" absoluteBounds="33.75, 12.75, 2, 3.0997033691406273">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_result" />
+      <nestedChildShapes>
+        <elementListCompartment Id="72eb4ccb-b722-4ded-a9dc-995ea139900b" absoluteBounds="33.765, 13.21, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e4b6da7-aa92-40bf-8c37-a038bf7d56c2" absoluteBounds="12.75, 33.75, 2, 2.9086836751302059">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_save" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4219312d-d9f0-4f7a-afd7-efa8eb9a9017" absoluteBounds="12.765, 34.21, 1.9700000000000002, 2.348683675130208" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7dad0066-7480-45f3-a307-6ee84af62219" absoluteBounds="33.75, 20.75, 2, 7.8751957194010416">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_sbt" />
+      <nestedChildShapes>
+        <elementListCompartment Id="809bd45f-be79-4996-9198-6fb8ea4aec3b" absoluteBounds="33.765, 21.21, 1.9700000000000002, 7.3151957194010411" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a1487395-bcec-430a-ac0c-ce619dac904c" absoluteBounds="33.75, 29.75, 2, 4.2458215332031273">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_secore" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9848064b-5bda-4ab3-ae8b-599f2e93ca5c" absoluteBounds="33.765, 30.21, 1.9700000000000002, 3.685821533203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f5c2570-8332-4288-9ba5-a519a4ed2e79" absoluteBounds="21.75, 34.75, 2, 1.9535852050781273">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_sg_result" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26f16c9c-add9-473b-b104-e3eb1115b552" absoluteBounds="21.765, 35.21, 1.9700000000000002, 1.393585205078125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="062a4938-e1e0-48a8-99ad-7089a4011f49" absoluteBounds="33.75, 34.75, 2, 2.5266442871093773">
+      <DataClassMoniker Name="/ShujukuDataContext/hla_ssop" />
+      <nestedChildShapes>
+        <elementListCompartment Id="210227ba-1589-4856-ab15-eb49de70eff3" absoluteBounds="33.765, 35.21, 1.9700000000000002, 1.966644287109375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="062bb423-7357-4eb5-8284-0a0445c333e8" absoluteBounds="15.75, 35.75, 2, 2.1446048990885345">
+      <DataClassMoniker Name="/ShujukuDataContext/lab_env" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1cb15923-ef96-4d69-a15b-ae06bcf574d1" absoluteBounds="15.765, 36.21, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e5adbe3f-2683-4147-b1f0-14b18f83dc0e" absoluteBounds="35.75, 16.75, 2, 2.9086836751302059">
+      <DataClassMoniker Name="/ShujukuDataContext/liquid_sterilize" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2263bcf3-2b0a-4740-bbec-27bb720b9b91" absoluteBounds="35.765, 17.21, 1.9700000000000002, 2.348683675130208" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1380bc04-49e3-4d69-8c96-e41643bedc58" absoluteBounds="12.75, 1.625, 2, 16.280062255859377">
+      <DataClassMoniker Name="/ShujukuDataContext/match_bill" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0b694c01-2682-42cd-9c3f-e898e2e7bd10" absoluteBounds="12.765, 2.085, 1.9700000000000002, 15.720062255859375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ff60666a-245c-4130-a65e-d21a8e3f2e3c" absoluteBounds="24.75, 35.75, 2, 3.2907230631510345">
+      <DataClassMoniker Name="/ShujukuDataContext/match_bill_fee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cb67dd70-f3bf-44f3-8226-be02ce193fa5" absoluteBounds="24.765, 36.21, 1.9700000000000002, 2.7307230631510415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="821029a1-e8fb-499d-b9ec-98b98b6e4833" absoluteBounds="36.75, 0.75, 2, 2.3356245930989585">
+      <DataClassMoniker Name="/ShujukuDataContext/match_bill_fee_record" />
+      <nestedChildShapes>
+        <elementListCompartment Id="729937fb-64c3-4c84-aa73-976d11556865" absoluteBounds="36.765, 1.21, 1.9700000000000002, 1.7756245930989585" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dd1f5ab5-4bd2-47e3-a5ec-d016610a5a5f" absoluteBounds="36.75, 4.75, 2, 3.0997033691406255">
+      <DataClassMoniker Name="/ShujukuDataContext/oper_reagent" />
+      <nestedChildShapes>
+        <elementListCompartment Id="18874b9c-5e38-4444-bb1c-e28d83bb06d1" absoluteBounds="36.765, 5.21, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8678103e-1d1d-485b-a9eb-167f309ae510" absoluteBounds="36.75, 8.75, 2, 1.5715458170572916">
+      <DataClassMoniker Name="/ShujukuDataContext/paper_rec" />
+      <nestedChildShapes>
+        <elementListCompartment Id="72f7fe2d-68c6-408c-a07a-b7e7b2571046" absoluteBounds="36.765, 9.21, 1.9700000000000002, 1.0115458170572915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9482c580-5a4e-4ab1-96d3-b005aeeb0e97" absoluteBounds="36.75, 20.75, 2, 4.6278609212239559">
+      <DataClassMoniker Name="/ShujukuDataContext/pbcatcol" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2027b823-069d-44e4-8d62-cf386c274dae" absoluteBounds="36.765, 21.21, 1.9700000000000002, 4.067860921223958" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="64500bfe-cdf9-44ec-a642-9591f2cb857a" absoluteBounds="36.75, 11.75, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/ShujukuDataContext/pbcatedt" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3aa80546-3fe5-4d21-9f0d-98218b9db573" absoluteBounds="36.765, 12.21, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a2cb6bbb-7f17-41cc-88a5-70cd6a0ba045" absoluteBounds="36.75, 26.75, 2, 1.5715458170572916">
+      <DataClassMoniker Name="/ShujukuDataContext/pbcatfmt" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0ac3cb37-6e34-45bc-99d0-03f43d3d8464" absoluteBounds="36.765, 27.21, 1.9700000000000002, 1.0115458170572915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="96dbf2fd-1cfe-4f38-a0c7-071ff0852cac" absoluteBounds="36.75, 29.75, 2, 5.582959391276038">
+      <DataClassMoniker Name="/ShujukuDataContext/pbcattbl" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9b88cb25-26e7-4c98-9750-42e04ba2ee00" absoluteBounds="36.765, 30.21, 1.9700000000000002, 5.0229593912760411" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1e63b189-2f01-4883-810e-fe6b7714f13a" absoluteBounds="36.75, 36.75, 2, 1.7625655110677059">
+      <DataClassMoniker Name="/ShujukuDataContext/pbcatvld" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2c9f7252-8263-4778-b150-b2819671592b" absoluteBounds="36.765, 37.21, 1.9700000000000002, 1.2025655110677083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="800686bd-c356-4530-aa42-090db3b178f2" absoluteBounds="18.75, 37.75, 2, 2.9086836751302059">
+      <DataClassMoniker Name="/ShujukuDataContext/pra_oper" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ff99e6ec-163b-4566-b9f0-9baf5e93d742" absoluteBounds="18.765, 38.21, 1.9700000000000002, 2.348683675130208" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="be6cf4b9-f1cd-4177-bd71-1e57ff1c8b60" absoluteBounds="12.75, 38.75, 2, 4.4368412272135345">
+      <DataClassMoniker Name="/ShujukuDataContext/qc_inner" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7c618f6-56e9-4589-ad9e-fd4364c7f5ee" absoluteBounds="12.765, 39.21, 1.9700000000000002, 3.876841227213542" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ecb9125b-1150-4f07-87eb-a31cba2bc248" absoluteBounds="27.75, 38.75, 2, 7.3021366373697845">
+      <DataClassMoniker Name="/ShujukuDataContext/qc_reagent" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1ef7ce7a-dc48-4dd6-a46c-efa9c519e0b6" absoluteBounds="27.765, 39.21, 1.9700000000000002, 6.7421366373697911" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="589ed4b0-20e4-43d2-bdca-90a8f3371e2b" absoluteBounds="38.75, 14.75, 2, 2.5266442871093755">
+      <DataClassMoniker Name="/ShujukuDataContext/rb_made" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70538045-e55e-492e-a97f-08cf5b6ed17e" absoluteBounds="38.765, 15.21, 1.9700000000000002, 1.966644287109375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fa4479d2-ce3c-4e86-9537-242a72b7ce45" absoluteBounds="30.75, 38.75, 2, 2.3356245930989559">
+      <DataClassMoniker Name="/ShujukuDataContext/rcs_barcode" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dcc1e955-61be-4b9d-9efa-a50b55f76d7f" absoluteBounds="30.765, 39.21, 1.9700000000000002, 1.7756245930989585" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e6718dbf-8d36-4943-9526-78026ab47c2f" absoluteBounds="20.75, 9, 2, 3.4817427571614559">
+      <DataClassMoniker Name="/ShujukuDataContext/rcs_bill" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a560b7ad-f0ed-48b1-a543-dad7c028b798" absoluteBounds="20.765, 9.46, 1.9700000000000002, 2.921742757161458" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6d7f5b99-4dbf-407e-b904-f90a73e2aebb" absoluteBounds="39.75, 0.75, 2, 3.4817427571614576">
+      <DataClassMoniker Name="/ShujukuDataContext/rcs_result" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e290f3a6-45fc-400f-8826-960f9b26b186" absoluteBounds="39.765, 1.21, 1.9700000000000002, 2.921742757161458" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a8ed17c9-0bac-4b3a-b9c8-e1435da2851f" absoluteBounds="23.5, 9.25, 2, 2.9086836751302059">
+      <DataClassMoniker Name="/ShujukuDataContext/rcs_sample_info" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a72e8d65-9e55-4872-b495-1906bb48e6f2" absoluteBounds="23.515, 9.71, 1.9700000000000002, 2.348683675130208" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c74da4e0-0705-4324-b5bc-4153e9805770" absoluteBounds="39.75, 5.75, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/ShujukuDataContext/reaction_prog" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ee0516c9-14f4-40ee-94d5-12538c380aca" absoluteBounds="39.765, 6.21, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="895b21a5-62ef-4776-8ca5-e1e2309e2003" absoluteBounds="18.75, 5.125, 2, 1.9535852050781255">
+      <DataClassMoniker Name="/ShujukuDataContext/reaction_setup" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9c4191a6-c93f-4a21-b17a-daea066fc5a3" absoluteBounds="18.765, 5.585, 1.9700000000000002, 1.393585205078125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="52e99ef1-7236-47f4-8782-db4b7b9db167" absoluteBounds="21.5, 5, 2, 2.3356245930989594">
+      <DataClassMoniker Name="/ShujukuDataContext/reaction_setup_item" />
+      <nestedChildShapes>
+        <elementListCompartment Id="29211593-5594-472b-8d66-be8f3b6058f9" absoluteBounds="21.515, 5.46, 1.9700000000000002, 1.7756245930989585" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bd6510ba-b263-4763-b99d-fbc15d3c7872" absoluteBounds="6.75, 39.75, 2, 9.2123335774739559">
+      <DataClassMoniker Name="/ShujukuDataContext/reaction_table" />
+      <nestedChildShapes>
+        <elementListCompartment Id="baf9bc68-ac71-4902-8d4e-a22ee8262a7d" absoluteBounds="6.765, 40.21, 1.9700000000000002, 8.6523335774739571" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="92599a3d-f845-4284-bf1c-263b381ac634" absoluteBounds="3.5, 60.25, 2, 6.5380578613281273">
+      <DataClassMoniker Name="/ShujukuDataContext/reaction_table_record" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4691c17f-b5bf-4a4e-96da-96d6af0dea32" absoluteBounds="3.515, 60.71, 1.9700000000000002, 5.978057861328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2bfae42d-a21b-48f2-b78c-983d741c6e81" absoluteBounds="21.25, 20.375, 2, 2.9086836751302059">
+      <DataClassMoniker Name="/ShujukuDataContext/reagent_batch" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0ab7e13b-f498-407c-bce9-ff7b00c866a1" absoluteBounds="21.265, 20.835, 1.9700000000000002, 2.348683675130208" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="16fa9e5a-7847-4ca8-b870-f37237d5f32e" absoluteBounds="39.75, 8.75, 2, 2.9086836751302059">
+      <DataClassMoniker Name="/ShujukuDataContext/reagent_io" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8690dd26-4a28-48a8-818c-86581b993330" absoluteBounds="39.765, 9.21, 1.9700000000000002, 2.348683675130208" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="62361289-2ac6-44e4-a8e3-b604ff28e69e" absoluteBounds="39.75, 18.75, 2, 2.9086836751302059">
+      <DataClassMoniker Name="/ShujukuDataContext/reagent_prepare" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e430f537-cbe0-40b3-9a7b-e7069f044242" absoluteBounds="39.765, 19.21, 1.9700000000000002, 2.348683675130208" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ef59e786-01c9-479f-8ce9-cdb551cc1b66" absoluteBounds="6.75, 19.5, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/ShujukuDataContext/reagent_template" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fe5f2365-09c6-4c06-a05e-94795711c1d9" absoluteBounds="6.765, 19.96, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c611819c-61d0-4463-9a2d-86fc59d88273" absoluteBounds="9.5, 19, 2, 3.0997033691406273">
+      <DataClassMoniker Name="/ShujukuDataContext/reagent_template_detail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="159bbb2f-b614-4fe3-ac7f-98110a906dab" absoluteBounds="9.515, 19.46, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="94f22971-4635-4d60-8aff-29e8f6750fe4" absoluteBounds="39.75, 22.75, 2, 1.7625655110677059">
+      <DataClassMoniker Name="/ShujukuDataContext/report_print_rec" />
+      <nestedChildShapes>
+        <elementListCompartment Id="45053289-df2e-4e8e-813a-24620f3ec648" absoluteBounds="39.765, 23.21, 1.9700000000000002, 1.2025655110677083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8b3cc7bb-5bb4-4e3a-86f8-359cfc0842fa" absoluteBounds="3.5, 49.5, 2, 4.6278609212239559">
+      <DataClassMoniker Name="/ShujukuDataContext/res_ab_titer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e7f227e9-6a6f-43cc-abb9-a21a5b953288" absoluteBounds="3.515, 49.96, 1.9700000000000002, 4.067860921223958" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="942a1f3f-99da-4049-b5d6-c6a0b453e77d" absoluteBounds="39.75, 25.75, 2, 4.0548018391927059">
+      <DataClassMoniker Name="/ShujukuDataContext/res_aboy" />
+      <nestedChildShapes>
+        <elementListCompartment Id="60afb764-eb00-49c3-b2cc-0ad05ea842c3" absoluteBounds="39.765, 26.21, 1.9700000000000002, 3.494801839192708" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a9867131-e251-4544-9082-32fa132cdc9b" absoluteBounds="3.5, 54.875, 2, 4.6278609212239559">
+      <DataClassMoniker Name="/ShujukuDataContext/res_accident_ab" />
+      <nestedChildShapes>
+        <elementListCompartment Id="01077b8b-cb33-4bfe-ad71-bcd385aab4df" absoluteBounds="3.515, 55.335, 1.9700000000000002, 4.067860921223958" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ba4be5b5-7827-4d51-92e1-203a536cf3ec" absoluteBounds="3.5, 23.375, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/ShujukuDataContext/res_blood_pl" />
+      <nestedChildShapes>
+        <elementListCompartment Id="302de336-4ea4-4c0b-9dda-359de1b39d8d" absoluteBounds="3.515, 23.835, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1efb399a-c325-420a-965f-7896b15d56f9" absoluteBounds="3.5, 30.875, 2, 3.4817427571614559">
+      <DataClassMoniker Name="/ShujukuDataContext/res_blood_type" />
+      <nestedChildShapes>
+        <elementListCompartment Id="88dc7351-2bef-4f5b-98e4-158bbba5a4c6" absoluteBounds="3.515, 31.335, 1.9700000000000002, 2.921742757161458" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cc614191-333e-4761-8400-940131f28cef" absoluteBounds="3.5, 10.25, 2, 2.3356245930989594">
+      <DataClassMoniker Name="/ShujukuDataContext/res_coombs_test" />
+      <nestedChildShapes>
+        <elementListCompartment Id="343ee82d-1700-4c7a-ba19-c03e72db608f" absoluteBounds="3.515, 10.71, 1.9700000000000002, 1.7756245930989585" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="402e0c22-2427-485e-93a2-3377968359d8" absoluteBounds="3.5, 44.5, 2, 4.2458215332031273">
+      <DataClassMoniker Name="/ShujukuDataContext/res_cross_match" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fb5f1bcf-3cf9-4b3c-90b4-7b2e718348d5" absoluteBounds="3.515, 44.96, 1.9700000000000002, 3.685821533203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8b79e677-7caa-4ed1-a2ab-1c480e42131c" absoluteBounds="3.5, 13.375, 2, 2.3356245930989594">
+      <DataClassMoniker Name="/ShujukuDataContext/res_da_test" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dfee5cf7-bf42-4bc8-aa40-63b2666f2aef" absoluteBounds="3.515, 13.835, 1.9700000000000002, 1.7756245930989585" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="06b6d745-4268-41b2-9813-00cac176830e" absoluteBounds="39.75, 30.75, 2, 2.5266442871093773">
+      <DataClassMoniker Name="/ShujukuDataContext/res_fa_test" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa6c5cba-3429-42e7-9d8e-250dad445bfc" absoluteBounds="39.765, 31.21, 1.9700000000000002, 1.966644287109375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="94d7f13b-6618-4105-8bed-e5b77210b724" absoluteBounds="33.75, 39.75, 2, 2.5266442871093773">
+      <DataClassMoniker Name="/ShujukuDataContext/res_ra_test" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f80e2b5a-6fb1-491b-b616-9227ca33896b" absoluteBounds="33.765, 40.21, 1.9700000000000002, 1.966644287109375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="857404c8-7be8-4204-ae73-e919bc776095" absoluteBounds="3.5, 35.125, 2, 3.8637821451822845">
+      <DataClassMoniker Name="/ShujukuDataContext/res_red_test" />
+      <nestedChildShapes>
+        <elementListCompartment Id="98c192cc-05f9-4462-adfe-25ee6570f178" absoluteBounds="3.515, 35.585, 1.9700000000000002, 3.3037821451822915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="64972bb7-3973-4089-8efb-39882839794f" absoluteBounds="3.5, 26.875, 2, 3.2907230631510416">
+      <DataClassMoniker Name="/ShujukuDataContext/res_serum_test" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6d85bddc-d998-4c13-b88a-1600622fb526" absoluteBounds="3.515, 27.335, 1.9700000000000002, 2.7307230631510415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b89049c7-de60-4986-af1b-4ad898a36e3d" absoluteBounds="39.75, 34.75, 2, 1.3805261230468773">
+      <DataClassMoniker Name="/ShujukuDataContext/rh_to_sys" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2d87068d-1d64-4689-b9e4-86d00f081577" absoluteBounds="39.765, 35.21, 1.9700000000000002, 0.820526123046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6f257e49-177c-48ad-a558-8c76ef2a9d33" absoluteBounds="3.5, 39.75, 2, 4.0548018391927059">
+      <DataClassMoniker Name="/ShujukuDataContext/sample" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b2024c81-b214-4042-840b-1003d132e85c" absoluteBounds="3.515, 40.21, 1.9700000000000002, 3.494801839192708" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3fd44c4f-db43-4274-a01b-8232427bc136" absoluteBounds="15.5, 5.75, 2, 8.0662154134114559">
+      <DataClassMoniker Name="/ShujukuDataContext/sample_info" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ef56c0a5-4066-4f96-a758-aa45a04f4aa0" absoluteBounds="15.515, 6.21, 1.9700000000000002, 7.506215413411458" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="42d58603-be69-463a-977d-ca39b57f0b7c" absoluteBounds="18.25, 8.75, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/ShujukuDataContext/sample_pic" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ce6620a8-3451-4fce-aa6a-2793279eec2c" absoluteBounds="18.265, 9.21, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d75a0a18-8a2e-442a-94f0-773da8850bdf" absoluteBounds="36.75, 39.75, 2, 3.0997033691406273">
+      <DataClassMoniker Name="/ShujukuDataContext/sample_point" />
+      <nestedChildShapes>
+        <elementListCompartment Id="af298408-61df-445d-a694-3186074d830e" absoluteBounds="36.765, 40.21, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f69131ad-ebda-47d8-8610-a84dc21ac7f7" absoluteBounds="39.75, 37.75, 2, 2.1446048990885345">
+      <DataClassMoniker Name="/ShujukuDataContext/secore_prog" />
+      <nestedChildShapes>
+        <elementListCompartment Id="059062f9-ae36-413e-96a5-f9783f36b9ff" absoluteBounds="39.765, 38.21, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8345b77d-d30b-478c-8098-241eb535e8cc" absoluteBounds="15.75, 1.125, 2, 1.9535852050781253">
+      <DataClassMoniker Name="/ShujukuDataContext/secore_setup" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d5f25011-d612-4303-a1f2-1a5fe302a112" absoluteBounds="15.765, 1.585, 1.9700000000000002, 1.393585205078125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9bce39cb-7271-410d-b696-a93ec6f77f47" absoluteBounds="18.5, 1, 2, 2.3356245930989585">
+      <DataClassMoniker Name="/ShujukuDataContext/secore_setup_item" />
+      <nestedChildShapes>
+        <elementListCompartment Id="859b9f40-3798-4a42-ae66-8d2abfd6cc6f" absoluteBounds="18.515, 1.46, 1.9700000000000002, 1.7756245930989585" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="43d40b8e-9b98-4df4-9ba6-5ef10543e6d8" absoluteBounds="21.75, 40.75, 2, 3.4817427571614559">
+      <DataClassMoniker Name="/ShujukuDataContext/spec_sample" />
+      <nestedChildShapes>
+        <elementListCompartment Id="80250061-e29f-4f56-bb23-01f5ef393fd9" absoluteBounds="21.765, 41.21, 1.9700000000000002, 2.921742757161458" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="30440368-93f8-4eab-a045-19d1b6d31ab2" absoluteBounds="39.75, 40.75, 2, 3.0997033691406273">
+      <DataClassMoniker Name="/ShujukuDataContext/sterilizing" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d5904d48-bf93-425a-9e58-ea8a75e1142f" absoluteBounds="39.765, 41.21, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ad660f65-d629-4951-8b08-f41af43f38ad" absoluteBounds="41.75, 12.75, 2, 3.6727624511718755">
+      <DataClassMoniker Name="/ShujukuDataContext/str_gs" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a1d5c63d-6c9a-44b2-b019-04a5821e4784" absoluteBounds="41.765, 13.21, 1.9700000000000002, 3.112762451171875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f732deb-d6f5-40b5-b8f4-02b805178337" absoluteBounds="15.75, 41.75, 2, 4.2458215332031273">
+      <DataClassMoniker Name="/ShujukuDataContext/str_result" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b2548124-8fbc-4ae7-89c5-416eac11bbbc" absoluteBounds="15.765, 42.21, 1.9700000000000002, 3.685821533203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2b4d9871-e2d0-4890-bbb3-a1c008fe2751" absoluteBounds="6.75, 10.5, 2, 3.0997033691406237">
+      <DataClassMoniker Name="/ShujukuDataContext/sys_menu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="137fe9c7-2784-4a69-923f-7fc21893e8b7" absoluteBounds="6.765, 10.96, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="510dea0a-fe5f-4978-a1af-60af805ebb80" absoluteBounds="42.75, 0.75, 2, 2.3356245930989585">
+      <DataClassMoniker Name="/ShujukuDataContext/sys_param" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e01059b1-6d06-4789-9474-64472b542155" absoluteBounds="42.765, 1.21, 1.9700000000000002, 1.7756245930989585" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="81d263e5-3df6-4e1e-916f-f37b784a2f77" absoluteBounds="6.75, 7.125, 2, 1.7625655110677085">
+      <DataClassMoniker Name="/ShujukuDataContext/sys_role" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6ad34ff2-1a74-41ba-aea7-63cf30f1343c" absoluteBounds="6.765, 7.585, 1.9700000000000002, 1.2025655110677083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="adf14476-3a45-485e-bf80-c186127c7bfc" absoluteBounds="9.5, 6.25, 2, 1.5715458170572916">
+      <DataClassMoniker Name="/ShujukuDataContext/sys_role_right" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ac25f1ec-c8ef-493b-9fb3-26dfe5ff1f14" absoluteBounds="9.515, 6.71, 1.9700000000000002, 1.0115458170572915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="39734bec-e430-45d8-882f-5cc47a6130cc" absoluteBounds="9.5, 8.625, 2, 3.4817427571614594">
+      <DataClassMoniker Name="/ShujukuDataContext/sys_user" />
+      <nestedChildShapes>
+        <elementListCompartment Id="708e7d27-1972-43ac-9308-4a95d4b7dc8f" absoluteBounds="9.515, 9.085, 1.9700000000000002, 2.921742757161458" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(17.75 : 18.4613812255859); (18.5 : 18.4613812255859)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/c_client/c_client_c_equipment" />
+      <nodes>
+        <classShapeMoniker Id="f20e7941-f146-48dd-8471-72d1a4fa5e1f" />
+        <classShapeMoniker Id="25b9424d-64d7-4aca-8d22-621f97118810" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.75 : 20.4578615315755); (18.5 : 20.4578615315755)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/c_client/c_client_c_reagent" />
+      <nodes>
+        <classShapeMoniker Id="f20e7941-f146-48dd-8471-72d1a4fa5e1f" />
+        <classShapeMoniker Id="54c38c3a-5181-4b0d-9ddd-44bc3510e558" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 33.75); (1.75 : 17.7338319905599); (2.19791916666667 : 17.7338319905599 : JumpStart); (2.36458583333333 : 17.7338319905599 : JumpEnd); (2.46354541666667 : 17.7338319905599 : JumpStart); (2.63021208333333 : 17.7338319905599 : JumpEnd); (3.5 : 17.7338319905599)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_bill_reagent" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="604c4d38-135e-47c8-a072-41cfd360f015" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 33.75); (2.2812525 : 5.57230244954427); (3.5 : 5.57230244954427)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_bill_report" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="bde541b3-1c72-48f1-8c9a-79b563f00fce" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.2187475 : 33.75); (1.2187475 : 21.2338319905599); (1.40104041666667 : 21.2338319905599 : JumpStart); (1.56770708333333 : 21.2338319905599 : JumpEnd); (1.66666666666667 : 21.2338319905599 : JumpStart); (1.83333333333333 : 21.2338319905599 : JumpEnd); (2.19791916666667 : 21.2338319905599 : JumpStart); (2.36458583333333 : 21.2338319905599 : JumpEnd); (2.46354541666667 : 21.2338319905599 : JumpStart); (2.63021208333333 : 21.2338319905599 : JumpEnd); (3.5 : 21.2338319905599)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_check_bill_fee" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="bd3b3a8d-e7f7-42c8-aec2-467a244269b6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 2.3588319905599); (9.5 : 2.3588319905599)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill_month/check_bill_month_check_bill_fee_month" />
+      <nodes>
+        <classShapeMoniker Id="388a2304-951c-401a-9d75-2787b1fbc6c8" />
+        <classShapeMoniker Id="455f127e-03df-4c24-87aa-8d2b78d5fb8d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.45923076923077 : 3.71766398111979); (7.45923076923077 : 3.96766398111979); (8.05461538461539 : 3.96766398111979); (8.05461538461539 : 3.71766398111979)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill_month/check_bill_month_check_bill_month" />
+      <nodes>
+        <classShapeMoniker Id="388a2304-951c-401a-9d75-2787b1fbc6c8" />
+        <classShapeMoniker Id="388a2304-951c-401a-9d75-2787b1fbc6c8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.54687875 : 33.75); (2.54687875 : 8.44730244954427); (3.5 : 8.44730244954427)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_check_bill_rec_pic" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="4c35c254-ebf1-4942-b31d-a6bf7dd660f6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 48.1198653157552); (1.75 : 72.5176963297526); (3.5 : 72.5176963297526)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_check_bill_sample" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="ecfa4453-6df8-41f2-83ab-f554b337032c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(23.75 : 2.00628275553385); (24.5 : 2.00628275553385)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/file_category/file_category_files" />
+      <nodes>
+        <classShapeMoniker Id="56705acc-9997-40cf-a2c9-91af256259ed" />
+        <classShapeMoniker Id="a3a7b06b-2dbb-43fa-878a-c0a34f83302e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(22.75 : 10.7043418375651); (23.5 : 10.7043418375651)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/rcs_bill/rcs_bill_rcs_sample_info" />
+      <nodes>
+        <classShapeMoniker Id="e6718dbf-8d36-4943-9526-78026ab47c2f" />
+        <classShapeMoniker Id="a8ed17c9-0bac-4b3a-b9c8-e1435da2851f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(20.75 : 6.10179260253906); (21.5 : 6.10179260253906)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/reaction_setup/reaction_setup_reaction_setup_item" />
+      <nodes>
+        <classShapeMoniker Id="895b21a5-62ef-4776-8ca5-e1e2309e2003" />
+        <classShapeMoniker Id="52e99ef1-7236-47f4-8782-db4b7b9db167" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 48.1198653157552); (2.2812525 : 63.5190289306641); (3.5 : 63.5190289306641)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_reaction_table_record" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="92599a3d-f845-4284-bf1c-263b381ac634" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(20.5 : 21.8293418375651); (21.25 : 21.8293418375651)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/c_reagent/c_reagent_reagent_batch" />
+      <nodes>
+        <classShapeMoniker Id="54c38c3a-5181-4b0d-9ddd-44bc3510e558" />
+        <classShapeMoniker Id="2bfae42d-a21b-48f2-b78c-983d741c6e81" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 20.5723024495443); (9.5 : 20.5723024495443)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/reagent_template/reagent_template_reagent_template_detail" />
+      <nodes>
+        <classShapeMoniker Id="ef59e786-01c9-479f-8ce9-cdb551cc1b66" />
+        <classShapeMoniker Id="c611819c-61d0-4463-9a2d-86fc59d88273" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.2187475 : 48.1198653157552); (1.2187475 : 51.813930460612); (1.66666666666667 : 51.813930460612 : JumpStart); (1.83333333333333 : 51.813930460612 : JumpEnd); (2.19791916666667 : 51.813930460612 : JumpStart); (2.36458583333333 : 51.813930460612 : JumpEnd); (2.46354541666667 : 51.813930460612 : JumpStart); (2.63021208333333 : 51.813930460612 : JumpEnd); (3.5 : 51.813930460612)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_res_ab_titer" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="8b3cc7bb-5bb4-4e3a-86f8-359cfc0842fa" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.54687875 : 48.1198653157552); (2.54687875 : 57.188930460612); (3.5 : 57.188930460612)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_res_accident_ab" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="a9867131-e251-4544-9082-32fa132cdc9b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.01562625 : 33.75); (2.01562625 : 24.7338319905599); (2.19791916666667 : 24.7338319905599 : JumpStart); (2.36458583333333 : 24.7338319905599 : JumpEnd); (2.46354541666667 : 24.7338319905599 : JumpStart); (2.63021208333333 : 24.7338319905599 : JumpEnd); (3.5 : 24.7338319905599)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_res_blood_pl" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="ba4be5b5-7827-4d51-92e1-203a536cf3ec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 34.0533713785807); (3.5 : 34.0533713785807)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_res_blood_type" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="1efb399a-c325-420a-965f-7896b15d56f9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.48437375 : 33.75); (1.48437375 : 11.4178122965495); (2.19791916666667 : 11.4178122965495 : JumpStart); (2.36458583333333 : 11.4178122965495 : JumpEnd); (2.46354541666667 : 11.4178122965495 : JumpStart); (2.63021208333333 : 11.4178122965495 : JumpEnd); (3.5 : 11.4178122965495)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_res_coombs_test" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="cc614191-333e-4761-8400-940131f28cef" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 46.3099326578776); (3.5 : 46.3099326578776)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_res_cross_match" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="402e0c22-2427-485e-93a2-3377968359d8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(0.95312125 : 33.75); (0.95312125 : 14.5428122965495); (1.40104041666667 : 14.5428122965495 : JumpStart); (1.56770708333333 : 14.5428122965495 : JumpEnd); (2.19791916666667 : 14.5428122965495 : JumpStart); (2.36458583333333 : 14.5428122965495 : JumpEnd); (2.46354541666667 : 14.5428122965495 : JumpStart); (2.63021208333333 : 14.5428122965495 : JumpEnd); (3.5 : 14.5428122965495)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_res_da_test" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="8b79e677-7caa-4ed1-a2ab-1c480e42131c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 37.0568910725911); (3.5 : 37.0568910725911)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_res_red_test" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="857404c8-7be8-4204-ae73-e919bc776095" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.679691875 : 33.75); (2.679691875 : 28.5203615315755); (3.5 : 28.5203615315755)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_res_serum_test" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="64972bb7-3973-4089-8efb-39882839794f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 41.7774009195964); (3.5 : 41.7774009195964)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/check_bill/check_bill_sample" />
+      <nodes>
+        <classShapeMoniker Id="c680bd87-c7d5-4c16-8ee6-07b10583f228" />
+        <classShapeMoniker Id="6f257e49-177c-48ad-a558-8c76ef2a9d33" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.75 : 9.78310770670573); (15.5 : 9.78310770670573)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/match_bill/match_bill_sample_info" />
+      <nodes>
+        <classShapeMoniker Id="1380bc04-49e3-4d69-8c96-e41643bedc58" />
+        <classShapeMoniker Id="3fd44c4f-db43-4274-a01b-8232427bc136" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.5 : 9.82230244954427); (18.25 : 9.82230244954427)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/sample_info/sample_info_sample_pic" />
+      <nodes>
+        <classShapeMoniker Id="3fd44c4f-db43-4274-a01b-8232427bc136" />
+        <classShapeMoniker Id="42d58603-be69-463a-977d-ca39b57f0b7c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.75 : 2.10179260253906); (18.5 : 2.10179260253906)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/secore_setup/secore_setup_secore_setup_item" />
+      <nodes>
+        <classShapeMoniker Id="8345b77d-d30b-478c-8098-241eb535e8cc" />
+        <classShapeMoniker Id="9bce39cb-7271-410d-b696-a93ec6f77f47" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 10.5); (9.125 : 10.125); (9.125 : 7.03577290852865); (9.5 : 7.03577290852865)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/sys_menu/sys_menu_sys_role_right" />
+      <nodes>
+        <classShapeMoniker Id="2b4d9871-e2d0-4890-bbb3-a1c008fe2751" />
+        <classShapeMoniker Id="adf14476-3a45-485e-bf80-c186127c7bfc" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 7.47327290852865); (9.04166666666667 : 7.47327290852864 : JumpStart); (9.20833333333333 : 7.47327290852865 : JumpEnd); (9.5 : 7.47327290852865)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ShujukuDataContext/sys_role/sys_role_sys_role_right" />
+      <nodes>
+        <classShapeMoniker Id="81d263e5-3df6-4e1e-916f-f37b784a2f77" />
+        <classShapeMoniker Id="adf14476-3a45-485e-bf80-c186127c7bfc" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 8.82519680836839); (9.06607443490112 : 9.14127124326951 : JumpStart); (9.18392556509888 : 9.25912237346727 : JumpEnd); (9.3125 : 9.38769680836839); (9.3125 : 8.4375); (9.5 : 8.625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ShujukuDataContext/sys_role/sys_role_sys_user" />
+      <nodes>
+        <classShapeMoniker Id="81d263e5-3df6-4e1e-916f-f37b784a2f77" />
+        <classShapeMoniker Id="39734bec-e430-45d8-882f-5cc47a6130cc" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
